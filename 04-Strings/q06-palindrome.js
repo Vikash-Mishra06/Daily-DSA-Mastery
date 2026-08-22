@@ -33,3 +33,12 @@
     // }
 
     // console.log(checkPalindrome('madam'));
+    
+// ------------------ or --------------------
+
+    // function checkPalindrome(str) {
+    //     let result = str.split('').reverse().join('');
+    //     return str === result;
+    // }
+
+    // console.log(checkPalindrome('madam'));
