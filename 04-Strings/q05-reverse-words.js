@@ -17,3 +17,12 @@
     // }
 
     // console.log(reverseWords('Vikash Mishra'));
+
+// ------------------ or --------------------
+
+    // function reverseWords(str) {
+    //     let result = str.split(' ').reverse().join(' ');
+    //     return result;
+    // }
+
+    // console.log(reverseWords('Vikash Mishra'));

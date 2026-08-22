@@ -30,3 +30,12 @@
     // }
 
     // console.log(reverseString('vikash'));
+
+// ------------------ or --------------------
+
+    // function reverseString(str) {
+    //     let result = str.split('').reverse().join('');
+    //     return result;
+    // }
+
+    // console.log(reverseString('Vikash Mishra'));
