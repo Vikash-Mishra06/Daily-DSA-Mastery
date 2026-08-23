@@ -1,15 +1,15 @@
 // Q9 — Count Vowels
 
-function countVowels(str) {
-    let count = 0;
-    let vowels = "aeiouAEIOU";
+    // function countVowels(str) {
+    //     let count = 0;
+    //     let vowels = "aeiouAEIOU";
 
-    for (let ch of str) {
-        if (vowels.includes(ch)) {
-            count++;
-        }
-    }
-    return count;
-}
+    //     for (let ch of str) {
+    //         if (vowels.includes(ch)) {
+    //             count++;
+    //         }
+    //     }
+    //     return count;
+    // }
 
-console.log(countVowels('Javascript'));
+    // console.log(countVowels('Javascript'));
